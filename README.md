@@ -2,8 +2,9 @@
 # Global Sales Data Analytics - PNT2022TMID21528
 
 ## Project Description: 
-      Shopping online is currently the need of the hour. Because of this COVID, it's not easy to walk in a store randomly and buy anything you want. 
-      So, try to understand a few things like, Customer Analysis and Product Analysis of this Global Super Store.
+      Shopping online is currently the need of the hour. Because of this COVID, it's not easy 
+      to walk in a store randomly and buy anything you want.So, try to understand a few things 
+      like, Customer Analysis and Product Analysis of this Global Super Store.
       
 # Project Objectives: 
       - Know fundamental concepts and can work on IBM Cognos Analytics.
